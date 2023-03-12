@@ -3,7 +3,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        line();
         System.out.println(" >> APLIKASI PENGHITUNG LUAS BANGUN DATAR <<");
+        line();
 
         String[] Menu = {"Hitung Luas Bangun Datar Persegi", "Hitung Luas Bangun Datar Persegi Panjang", "Hitung Luas Bangun Datar Jajar Genjang", "Hitung Luas Bangun Datar Segitiga", "Hitung Luas Bangun Datar Lingkaran", "Keluar"};
 
@@ -17,6 +19,12 @@ public class Main {
         System.out.print(" >  Pilihan (n): ");
         int pilihan = input.nextInt() - 1;
 
+        line();
         System.out.println("Pilihan anda : " + Menu[pilihan]);
+        line();
+    }
+
+    public static void line() {
+        System.out.println("--------------------------------------------");
     }
 }
