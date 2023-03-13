@@ -7,3 +7,5 @@ Aplikasi Penghitung Luas Bangun Datar adalah sebuah program sederhana yang diran
 - Menghitung Luas Bangun Datar Jajar Genjang
 - Menghitung Luas Bangun Datar Segitiga
 - Menghitung Luas Bangun Datar Lingkaran
+
+## PERSYARATAN ##
