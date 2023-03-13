@@ -9,3 +9,8 @@ Aplikasi Penghitung Luas Bangun Datar adalah sebuah program sederhana yang diran
 - Menghitung Luas Bangun Datar Lingkaran
 
 ## PERSYARATAN ##
+Pastikan Anda telah menginstall Git dan JDK (Java Development Kit) sebelum menjalankan proyek ini.
+
+Untuk pengguna Windows, Anda dapat mengunduh Git dari situs resminya: https://git-scm.com/download/win.
+
+Untuk menginstall JDK, Anda dapat mengunduh installer dari situs: https://jdk.java.net/.
